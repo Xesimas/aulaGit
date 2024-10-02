@@ -1,0 +1,15 @@
+.telageral{
+    border-color: #000000;
+    border-width: 0.5px;
+    border-style: solid;
+    border-radius: 4px;
+    margin-top: 15%;
+    justify-content: center;
+    width: 180px;
+}
+.senha{
+    margin: 5px;
+}
+.usuario{
+    margin: 5px;
+}
